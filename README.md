@@ -1,12 +1,12 @@
 # GEPLATE - Software Components and Directory Structure
 
 ## Overview
-GEPLATE is a software platform designed for modeling, simulation, and decision support in district heating networks (SZT). It was developed as part of the research project **TK04020222** within the **THÉTA Program for Applied Research, Experimental Development, and Innovation**. The software consists of multiple components structured as follows:
+GEPLATE is a platform designed to support the decentralization of district heating networks (SZT, the designation used in the Czech language, DH). It provides a software framework for collecting and providing access to relevant technological and external data, performing modeling and simulation, and offering decision support. The platform was developed as part of the research project TK04020222 within the THÉTA Program for Applied Research, Experimental Development, and Innovation. It incorporates multiple software modules, which are structured as follows:
 
-## Project Information
-This software was developed as part of the research project **DECENTRALIZACE ZDROJŮ V SOUSTAVĚ REGIONÁLNÍHO ZÁSOBOVÁNÍ TEPLEM** within the **THÉTA Program for Applied Research, Experimental Development, and Innovation**.
-
-- **Project Number:** TK04020222  
+## Research Project Details
+- **Project Number:** TK04020222 
+- **Project Name:** DECENTRALIZACE ZDROJŮ V SOUSTAVĚ REGIONÁLNÍHO ZÁSOBOVÁNÍ TEPLEM
+- **Programme:** THETA
 - **Provider:** Technologická agentura České republiky  
 - **Duration:** 1.1.2022 – 31.12.2024  
 - **Main Recipient:** Univerzita Tomáše Bati ve Zlíně  
