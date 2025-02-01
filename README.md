@@ -70,8 +70,7 @@ At its core is a coordination agent responsible for collecting data, making deci
 ### 4. Common Utilities (`common/`)  
 This directory contains shared utilities and function libraries applicable across all platform components, ensuring consistent communication, data processing, and integration across the system. It also includes tools for testing and troubleshooting the interdependencies between components, as well as for providing access control.
 
-
 ## Technical Details
-- The platform supports **REST API** for communication between modules.
-- Multi-agent system components are implemented in **C# and Python**.
-- Distributed computing is enabled through the interconnection of modules via **REST APIs**, allowing them to run on different machines and be implemented in various programming languages. **Containerization** further contributes to efficient operation by ensuring scalability and seamless deployment of these modules across different computing resources..
+- **REST API** enables communication between modules, allowing them to be interconnected, run on different machines, and implemented in various programming languages.
+- **Containerization** ensures efficient operation and scalability, facilitating seamless deployment and distribution of modules across different computing resources.
+- **Modules** of the components are implemented in **C# and Python**.
