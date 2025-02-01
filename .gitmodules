@@ -1,3 +1,4 @@
 [submodule "components/components"]
 	path = components/components
 	url = https://github.com/vdolinay/GEPLATE_components
+	branch = main
